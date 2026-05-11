@@ -1,9 +1,11 @@
-# simple-k8s-agent
-Experiment with AI agents, skill, loops etc...
+# The simple-k8s-agent
+
+Experiment with AI agents, skill, loops, OpenAI SDKs, prompts etc...
 
 # Branches
 
 Take a look into branches:
+
 - [prompt-based-tool-calling](https://github.com/milosveljkovic/simple-k8s-agent/tree/prompt-based-tool-calling)
   - k8s agent loop
   - decide to call loop based on system prompt
