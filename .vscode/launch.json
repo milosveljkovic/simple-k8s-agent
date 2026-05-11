@@ -10,9 +10,7 @@
             "request": "launch",
             "mode": "auto",
             "program": "cmd/simple-k8s-agent/main.go",
-            "env": {
-                "OPENAI_API_KEY":"<KEY>"
-            },
+            "envFile": "${workspaceFolder}/.env",
             "console": "integratedTerminal"
         }
     ]
